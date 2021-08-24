@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\mvc_entity\\Views\\Alunos\\Delete.cshtml",
+      "TargetPath": "Views\\Alunos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\mvc_entity\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15649,8 +15654,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\mvc_entity\\Views\\Alunos\\Edit.cshtml",
+      "TargetPath": "Views\\Alunos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\mvc_entity\\Views\\Alunos\\Create.cshtml",
+      "TargetPath": "Views\\Alunos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\mvc_entity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\mvc_entity\\Views\\Alunos\\Details.cshtml",
+      "TargetPath": "Views\\Alunos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\mvc_entity\\Views\\Alunos\\Index.cshtml",
+      "TargetPath": "Views\\Alunos\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
